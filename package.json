@@ -8,10 +8,12 @@
   },
   "dependencies": {
     "async": "0.2.9",
-    "buster": "0.7.3",
     "level": "0.18.0",
     "natural": "0.1.21"
   },
+  "devDependencies": {
+    "buster": "0.7.3"
+  }
   "author": {
     "name": "Fergus McDowall",
     "email": "fergusmcdowall@gmail.com"
